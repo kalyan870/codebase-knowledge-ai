@@ -17,3 +17,9 @@ The repository description presents a full-stack AI assistant and includes a dem
 ## Before presenting it as reproducible
 
 Commit the frontend/backend source or link clearly to its maintained source repository. Document indexing scope, supported languages, data retention, model configuration, and how answers cite their source files.
+
+
+## Live concept preview
+
+[Open the interactive prototype](https://kalyan870.github.io/codebase-knowledge-ai/). This is a static concept preview using sample data, not a production backend. See the limitation notice in the app.
+
