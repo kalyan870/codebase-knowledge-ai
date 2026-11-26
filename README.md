@@ -23,3 +23,9 @@ Commit the frontend/backend source or link clearly to its maintained source repo
 
 [Open the interactive prototype](https://kalyan870.github.io/codebase-knowledge-ai/). This is a static concept preview using sample data, not a production backend. See the limitation notice in the app.
 
+## Architecture
+
+
+![codebase-knowledge-ai architecture map](docs/images/codebase-knowledge-ai-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/codebase-knowledge-ai-architecture.svg)
